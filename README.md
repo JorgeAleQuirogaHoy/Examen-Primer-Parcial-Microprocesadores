@@ -1,0 +1,1 @@
+Este proyecto consiste en la implementación de un sistema con el microcontrolador PIC16F877A, donde se programaron cuatro LEDs para encenderse de forma secuencial. Se documenta todo el proceso desde la selección de componentes hasta la programación y prueba del circuito.
